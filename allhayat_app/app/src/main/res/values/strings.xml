@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">allhayat_app</string>
+    <string name="title_home"></string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_more">More</string>
+    <string name="title_profile">My profile</string>
+    <string name="title_booking">Booking</string>
+    <string name="loading">Loadin...</string>
+</resources>
