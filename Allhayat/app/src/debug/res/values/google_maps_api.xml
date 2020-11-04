@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A2:B4:56:56:D7:06:29:E1:FF:A3:F4:A4:5A:CE:20:3E:5B:9E:50:11%3Bapp.alhyatt.center.ui
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    app.alhyatt.center.ui
+
+    SHA-1 certificate fingerprint:
+    A2:B4:56:56:D7:06:29:E1:FF:A3:F4:A4:5A:CE:20:3E:5B:9E:50:11
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCE29pCYj3ntftgARbTP0FA8xZyLBCF7f8</string>
+</resources>

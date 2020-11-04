@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "60038350892",
+    "firebase_url": "https://hayah-98e1d.firebaseio.com",
+    "project_id": "hayah-98e1d",
+    "storage_bucket": "hayah-98e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60038350892:android:663964c9193e132d066989",
+        "android_client_info": {
+          "package_name": "app.Alhyatt.Center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60038350892-bqhe98d551h6sj1af5iereeu5aj6q0r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Alhyatt.Center",
+            "certificate_hash": "5e6e9a3766df05d7aeb7133ac949f13906dac9f4"
+          }
+        },
+        {
+          "client_id": "60038350892-j5s8ipuoiiq3963i9k51is4s1nh8ofsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_dsolGD9kqlv8Xy7_mb76KfaoHI-OvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60038350892-3qnb0qc9pbtb7tmniu97cb1vou49pm34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60038350892:android:f1376fa960df9236066989",
+        "android_client_info": {
+          "package_name": "app.Hayah.Clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60038350892-9c43cf9hs8o1ufnm21nvbi1iadotvae5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Hayah.Clinic",
+            "certificate_hash": "73e08166537f89bada84eefdf8794cdf6a97e6bc"
+          }
+        },
+        {
+          "client_id": "60038350892-geql28sbb3khu1vju0me0pqvh707tl43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Hayah.Clinic",
+            "certificate_hash": "c5d1817d1bb1045e2cedee1ac03ce8f78da5e598"
+          }
+        },
+        {
+          "client_id": "60038350892-cjvqtl8o00775ei6ie350ka5ssord3su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.Hayah.Clinic",
+            "certificate_hash": "5e6e9a3766df05d7aeb7133ac949f13906dac9f4"
+          }
+        },
+        {
+          "client_id": "60038350892-j5s8ipuoiiq3963i9k51is4s1nh8ofsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_dsolGD9kqlv8Xy7_mb76KfaoHI-OvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60038350892-3qnb0qc9pbtb7tmniu97cb1vou49pm34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

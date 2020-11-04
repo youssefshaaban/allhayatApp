@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3AAA35</color>
+    <color name="colorPrimaryDark">#1B814C</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="red">#F34F2C</color>
+    <color name="floatButton">#E5262B</color>
+    <color name="errColor">#f44336</color>
+    <color name="yellowWarning">#ffb74d</color>
+    <color name="successColor">#4caf50</color>
+    <color name="black">#070707</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#5E5D5D</color>
+</resources>

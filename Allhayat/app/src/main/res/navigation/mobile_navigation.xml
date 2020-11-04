@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="app.alhyatt.center.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="app.alhyatt.center.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_more"
+        android:name="app.alhyatt.center.ui.more.MoreFragment"
+        android:label="@string/title_more"
+        tools:layout="@layout/more_fragment" />
+    <fragment
+        android:id="@+id/navigation_booking"
+        android:name="app.alhyatt.center.ui.booking.BookingFragment"
+        android:label="@string/title_booking"
+        tools:layout="@layout/booking_fragment" />
+
+    <action
+        android:id="@+id/home"
+        app:destination="@id/navigation_home"
+        app:popUpTo="@id/navigation_home"
+        app:popUpToInclusive="true" />
+
+
+
+    <action android:id="@+id/myBooking"
+        app:destination="@id/navigation_booking"
+        app:popUpToInclusive="true"
+        app:popUpTo="@id/navigation_booking"
+        />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="app.alhyatt.center.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+</navigation>
